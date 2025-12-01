@@ -1,0 +1,28 @@
+{
+    "Site": {
+        "Site A": 0,
+        "Site B": 1,
+        "Site C": 2,
+        "Site D": 3,
+        "Site E": 4
+    },
+    "Metal": {
+        "Cadmium": 0,
+        "Copper": 1,
+        "Lead": 2,
+        "Nickel": 3,
+        "Zinc": 4
+    },
+    "Microbe_Used": {
+        "Aspergillus niger": 0,
+        "Bacillus subtilis": 1,
+        "Pseudomonas aeruginosa": 2,
+        "Rhizopus oryzae": 3
+    },
+    "Source": {
+        "Industrial Effluent": 0,
+        "River Water": 1,
+        "Sewage Sludge": 2,
+        "Soil Sample": 3
+    }
+}
